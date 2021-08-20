@@ -1,8 +1,2 @@
- * ____                            _     _   __  __       _
- * |  _ \ _   _ _ __ __ _ _ __ ___ (_) __| | |  \/  | __ _| | _____ _ __
- * | |_) | | | | '__/ _` | '_ ` _ \| |/ _` | | |\/| |/ _` | |/ / _ \ '__|
- * |  __/| |_| | | | (_| | | | | | | | (_| | | |  | | (_| |   <  __/ |
- * |_|    \__, |_|  \__,_|_| |_| |_|_|\__,_| |_|  |_|\__,_|_|\_\___|_|
- *        |___/
-
-Simple Java program to make a pyramid, given the length of it's base.
+#PyramidMaker
+Simple Java script to make a pyramid, given the length of it's base.
