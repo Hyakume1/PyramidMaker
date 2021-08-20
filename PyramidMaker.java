@@ -13,7 +13,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class Main {
+public class PyramidMaker {
 
     static int pyramidBase;
     static int rows;
